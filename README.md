@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dwayne</h1>
-I'm a Computer Science major at UBC in Vancouver, specializing in Python, Java, and C++. With a strong background in software design principles, I've honed my skills through projects like Password Manager. I interned at HPE and NUS, collaborating on an AI-driven project called AutoCast, enhancing farming yields using Azure and Python.
+I'm a Computer Science major at UBC in Vancouver, specializing in Python, Java, and C++. With a strong background in software design principles, I've honed my skills through projects like <b> Password Manager </b>. I interned at HPE and NUS, collaborating on an AI-driven project called AutoCast, enhancing farming yields using Azure and Python.
 
 
 <p align="left">
