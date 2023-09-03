@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dwayne</h1>
-- I'm a Computer Science major at UBC in Vancouver, specializing in Python, Java, and C++. With a strong background in software design principles, I've honed my skills through projects like **Password Manager.**
+I'm a Computer Science major at UBC in Vancouver, specializing in Python, Java, and C++. With a strong background in software design principles, I've honed my skills through projects like **Password Manager.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
